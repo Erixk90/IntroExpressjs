@@ -12,3 +12,7 @@ Hacemos uso del framework Express de NodeJs, adicional se hace un routing y resp
 ## Para iniciar el proyecto.
  
  1. Hacemos Npm init  y el servidor donde corre el proyecto es el 3030.
+
+y podemos ver un proyecto sencillo de como comenzar con Express.
+
+Nivel de Usuario: Basico.
