@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+
+.parrafo-destacado {
+    color : red;
+    font-size: 45px;
+}
